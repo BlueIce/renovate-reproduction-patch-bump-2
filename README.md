@@ -10,4 +10,4 @@ Version should be bumped from 1.2.99 to 1.2.100
 
 ## Link to the Renovate issue or Discussion
 
-[Put your link to the Renovate issue or Discussion here.](https://github.com/renovatebot/renovate/discussions/37048)
+https://github.com/renovatebot/renovate/discussions/37048
